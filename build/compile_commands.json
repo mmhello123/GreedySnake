@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/MyProjects/C++_projects/GreedySnake/build/src",
+  "command": "D:\\MinGW-w64\\mingw64-v15.1.0\\bin\\g++.exe   -g -std=c++20 -o CMakeFiles\\GREEDY_SNAKE.dir\\controller.cpp.obj -c D:\\MyProjects\\C++_projects\\GreedySnake\\src\\controller.cpp",
+  "file": "D:/MyProjects/C++_projects/GreedySnake/src/controller.cpp",
+  "output": "src/CMakeFiles/GREEDY_SNAKE.dir/controller.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/C++_projects/GreedySnake/build/src",
+  "command": "D:\\MinGW-w64\\mingw64-v15.1.0\\bin\\g++.exe   -g -std=c++20 -o CMakeFiles\\GREEDY_SNAKE.dir\\food.cpp.obj -c D:\\MyProjects\\C++_projects\\GreedySnake\\src\\food.cpp",
+  "file": "D:/MyProjects/C++_projects/GreedySnake/src/food.cpp",
+  "output": "src/CMakeFiles/GREEDY_SNAKE.dir/food.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/C++_projects/GreedySnake/build/src",
+  "command": "D:\\MinGW-w64\\mingw64-v15.1.0\\bin\\g++.exe   -g -std=c++20 -o CMakeFiles\\GREEDY_SNAKE.dir\\main.cpp.obj -c D:\\MyProjects\\C++_projects\\GreedySnake\\src\\main.cpp",
+  "file": "D:/MyProjects/C++_projects/GreedySnake/src/main.cpp",
+  "output": "src/CMakeFiles/GREEDY_SNAKE.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/C++_projects/GreedySnake/build/src",
+  "command": "D:\\MinGW-w64\\mingw64-v15.1.0\\bin\\g++.exe   -g -std=c++20 -o CMakeFiles\\GREEDY_SNAKE.dir\\map.cpp.obj -c D:\\MyProjects\\C++_projects\\GreedySnake\\src\\map.cpp",
+  "file": "D:/MyProjects/C++_projects/GreedySnake/src/map.cpp",
+  "output": "src/CMakeFiles/GREEDY_SNAKE.dir/map.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/C++_projects/GreedySnake/build/src",
+  "command": "D:\\MinGW-w64\\mingw64-v15.1.0\\bin\\g++.exe   -g -std=c++20 -o CMakeFiles\\GREEDY_SNAKE.dir\\point.cpp.obj -c D:\\MyProjects\\C++_projects\\GreedySnake\\src\\point.cpp",
+  "file": "D:/MyProjects/C++_projects/GreedySnake/src/point.cpp",
+  "output": "src/CMakeFiles/GREEDY_SNAKE.dir/point.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/C++_projects/GreedySnake/build/src",
+  "command": "D:\\MinGW-w64\\mingw64-v15.1.0\\bin\\g++.exe   -g -std=c++20 -o CMakeFiles\\GREEDY_SNAKE.dir\\snake.cpp.obj -c D:\\MyProjects\\C++_projects\\GreedySnake\\src\\snake.cpp",
+  "file": "D:/MyProjects/C++_projects/GreedySnake/src/snake.cpp",
+  "output": "src/CMakeFiles/GREEDY_SNAKE.dir/snake.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/C++_projects/GreedySnake/build/src",
+  "command": "D:\\MinGW-w64\\mingw64-v15.1.0\\bin\\g++.exe   -g -std=c++20 -o CMakeFiles\\GREEDY_SNAKE.dir\\startInterface.cpp.obj -c D:\\MyProjects\\C++_projects\\GreedySnake\\src\\startInterface.cpp",
+  "file": "D:/MyProjects/C++_projects/GreedySnake/src/startInterface.cpp",
+  "output": "src/CMakeFiles/GREEDY_SNAKE.dir/startInterface.cpp.obj"
+},
+{
+  "directory": "D:/MyProjects/C++_projects/GreedySnake/build/src",
+  "command": "D:\\MinGW-w64\\mingw64-v15.1.0\\bin\\g++.exe   -g -std=c++20 -o CMakeFiles\\GREEDY_SNAKE.dir\\tools.cpp.obj -c D:\\MyProjects\\C++_projects\\GreedySnake\\src\\tools.cpp",
+  "file": "D:/MyProjects/C++_projects/GreedySnake/src/tools.cpp",
+  "output": "src/CMakeFiles/GREEDY_SNAKE.dir/tools.cpp.obj"
+}
+]

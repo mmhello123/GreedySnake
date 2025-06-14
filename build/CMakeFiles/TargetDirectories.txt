@@ -1,0 +1,5 @@
+D:/MyProjects/C++_projects/GreedySnake/build/CMakeFiles/edit_cache.dir
+D:/MyProjects/C++_projects/GreedySnake/build/CMakeFiles/rebuild_cache.dir
+D:/MyProjects/C++_projects/GreedySnake/build/src/CMakeFiles/GREEDY_SNAKE.dir
+D:/MyProjects/C++_projects/GreedySnake/build/src/CMakeFiles/edit_cache.dir
+D:/MyProjects/C++_projects/GreedySnake/build/src/CMakeFiles/rebuild_cache.dir

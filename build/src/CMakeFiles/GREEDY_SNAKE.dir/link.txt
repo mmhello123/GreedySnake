@@ -1,0 +1,3 @@
+D:\cmake\bin\cmake.exe -E rm -f CMakeFiles\GREEDY_SNAKE.dir/objects.a
+D:\MinGW-w64\mingw64-v15.1.0\bin\ar.exe qc CMakeFiles\GREEDY_SNAKE.dir/objects.a @CMakeFiles\GREEDY_SNAKE.dir\objects1.rsp
+D:\MinGW-w64\mingw64-v15.1.0\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\GREEDY_SNAKE.dir/objects.a -Wl,--no-whole-archive -o GREEDY_SNAKE.exe -Wl,--out-implib,libGREEDY_SNAKE.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GREEDY_SNAKE.dir\linkLibs.rsp
