@@ -25,7 +25,7 @@ void Controller::ShowModeSelectUI()
     SetCursorPosition(13, 27);
     std::cout << "                               ";
     SetCursorPosition(6, 21);
-    std::cout << "请选择游戏难度：";
+    //std::cout << "请选择游戏难度：";
     SetCursorPosition(6, 22);
     std::cout << "(上下键选择,回车确认)";
 

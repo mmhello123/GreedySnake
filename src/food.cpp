@@ -31,7 +31,7 @@ void Food::DrawFood(Snake& csnake)
         y = tmp_y;
         SetCursorPosition(x, y);
         SetColor(13);
-        std::cout << "★";
+        //std::cout << "★";
         ++cnt;
         cnt %= 5;
 
@@ -75,7 +75,7 @@ void Food::DrawBigFood(Snake& csnake)
         big_y = tmp_y;
         SetCursorPosition(big_x, big_y);
         SetColor(18);
-        std::cout << "■" ;
+        //std::cout << "■" ;
         big_flag = true;
         flash_flag = true;
         break;
@@ -99,7 +99,7 @@ void Food::FlashBigFood()
     }
     else
     {
-        std::cout << "■" ;
+        //std::cout << "■" ;
         flash_flag = true;
     }
 
