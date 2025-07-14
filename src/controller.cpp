@@ -25,7 +25,7 @@ void Controller::ShowModeSelectUI()
     SetCursorPosition(13, 27);
     std::cout << "                               ";
     SetCursorPosition(6, 21);
-    //std::cout << "请选择游戏难度：";
+    std::cout << "请选择游戏难度：";
     SetCursorPosition(6, 22);
     std::cout << "(上下键选择,回车确认)";
 
@@ -331,18 +331,21 @@ int Controller::GameOver()
 void Controller::Game()
 {
     SetConsoleOutputCP(65001);  // 设置控制台输出为UTF-8
-    ShowStartUI();    // 显示开始界面
     
     while (true)
     {
-        if (!isRestartGame) ShowModeSelectUI();
+        if (!isRestartGame)
+        {
+            ShowStartUI();    // 显示开始界面
+            ShowModeSelectUI();
+        }
         DrawGame();
 
         int choice = PlayGame();
         // 重新开始
-        if (choice == 2) isRestartGame = true;
+        if (choice == 1) isRestartGame = true;
         // 退出至菜单
-        if (choice == 3) isRestartGame = false;
+        if (choice == 2) isRestartGame = false;
         
         // 清屏
         system("cls");
